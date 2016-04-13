@@ -1,0 +1,65 @@
+Mysterli cosmographioi
+
+capa run.
+
+Dc computandae orbibus qut corporibus inscribuntur et circumciduntur
+
+Hactenus nihil dictum, nisi consentanea quaedam signa et ιίκοια su-
+scepti theorematis. Transeamus modo ad ἀποςηματα orbium astronomiae et
+demonstrationes geometricas: quae nisi consentiant, procul dubio omnem
+praecedentem operam luserimus. Primum omnium videamus,¹ in quanta prc-
+. portione siut orbes singulis his quinque corporibus regularibus inscripti ad
+
+circumscriptos.
+
+m radii quidem sive semidiametri circumscriptorum aequant semidia-
+gonios corpomm. Nam nisi omnes anguli figurae tetigerint eandem super·
+· ficiem, corpus regulare non erit. Bini autem anguli oppositi mutuo et cen-
+trum figurae semper sunt in eadem linea sive axi orbis. Excipitur uuum
+tetraddron, quod habet singulos angulos singulis facierum centris oppositos.
+
+Jam recta connectens centra figurae et basis est radius sive semidia-
+meter inscripti per ultimam lib. XV. Campani' m Euclidem. Ι1) Orbis
+enim inscriptus tangere debet omnia centra figurae, et figurae inscriptae
+cum circumscriptis omnes possident idern centrum.
+
+pq, ιι, Quod cum ita sit, facile est videre, potentiam radii,
+quo circulus basi circumscribitur, auferendam de potentia
+radii orbis circumscripti, ut residua sit potentia quaesitae
+lineae seu radii orbis inscripti. lu adjuncto schemate
+HOM est axis circumscripti orbis, cujus, ut et figurae m-
+
+, scriptae commune centrum inO, I’JGL planum unum figu-
+rae, quod hic sit basia, Jceutrum basrs HJradrus ιιι
+cumscripti basi. Et recta ex centro orbiaO m J cen-
+
+Btrum minoris circuli demissa perpendicularis erit circulo
+et lineae HJ. In triangulo igitur HJO angulus ad J rec-
+tus. Ergo ΗΟ potentia aequat potentias HJ, JO. Et
+
+, potentia HJ ablata err ΗΟ potentia, relinquit JO poten-
+tiam quaesitam (Ε. Ι, 47). “)
+
+Hinc apparet, ut habeatur JO iu omnibus liguris, quaerendam esse
+prius HJ radium basis. Habetur autem et HJ radius, cognito latere ligu-
+rae, cui circulum circumscribit. Hinc rursum, ut radius basis habeatur,
+quaerendum prius latus cujuslibet figurae.
+
+Assumto igitur radio circumscripti cujuslibet in quantitate sinus totius
+1000 partium (sufficit nostro instituto haec radii magnitudo) potentia late-
+ris cubici (Eucl. Xlll, 15) estpars tertia potentiae axis, ut si axis habet
+2000, latus cubi habet 1155. Lateris octaedri potentia (Eucl. XlIl, 14)
+est dimidium potentiae axis Lateris tetraddrici potentia est (ib 13) sesqui-
+altera pars de potentia axis. Η) Atque hacteuus usui fuit aureum illud
+theorema l’)thagorae de potentiis· laterum m triangulo rectangulo. In ce-
+teris duobus corporibus altero illo geometriae thesauro opus est, de linea
+secuudum extremam ct mediam rationem secta (Eucl. Vl, 30) h'am do-
+decabdricum latus est major portio lateris cubici secti secundum extremam
+et mediam rationem (Eucl. ΧΙΙΙ, 17. Cor..) .Sic pro icosaedrico latere iu-
+veniendo primum quaeritur radius illius circuli, qui quinque icosaedri tangit
+angulos, qur ''estAC ιιι circulo AB (fig 19)AE jus potentia estquinta pars de po-
+
+tentia axis (Eucl. Xlll, 16. Cor.) igitur (ib. J5 et 9) radii ratius AO secundum
+
+ 
+
